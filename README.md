@@ -1,97 +1,77 @@
-# 🌐 Responsive Web Page – SCT_WD_1
+### 🌐 Skillcraft – Internship Web Project
 
-Welcome to the **Responsive Web Page** project repository! This is a modern and elegant 🌟 HTML, CSS, and JavaScript project designed to showcase core frontend development skills with smooth animations, responsive layouts, and dynamic design. No backend or frameworks needed—just clean, simple code!
+Welcome to Skillcraft, a responsive and modern web-based project built entirely using HTML, CSS, and JavaScript. This project was created as part of the Skill Craft Internship and aims to deliver a practical, interactive, and visually clean web experience.
 
-─────────────────────────────────────────────
+## 🔗 Live Demo
 
-##  📖 About the Project
+👉 https://abdul9010150809.github.io/SCT_WD_1/
 
-This project demonstrates a fully responsive and interactive web page built with pure web technologies. It’s perfect for learning:
+## 📖 About the Project
 
- * ✅ Responsive layouts  
- * ✅ Semantic HTML  
- * ✅ CSS Flexbox & Grid  
- * ✅ JavaScript DOM interactions
+Skillcraft is a one-page responsive website that features a rich UI, clean navigation, and accessibility features like speech synthesis and dark mode toggle. The content introduces internship details, key learning features, and dummy links that simulate a full learning platform.
 
-─────────────────────────────────────────────
+It’s an ideal showcase of frontend development skills — all built into a single index.html file.
 
-### ✨ Key Features
+## ✨ Features
 
- 1. 🎯 Fully responsive layout – mobile, tablet, and desktop 
-  
- 2. 🎨 Clean, modern UI with custom CSS styling  
- 
- 3. 🌗 Light/dark styling or elegant hover effects (based on code setup) 
-  
- 4. ⚡ Fast load time – no libraries, no frameworks  
- 
- 5. 🧩 Modular structure (HTML, CSS, JS separation)  
- 
- 6. 📁 Organized file and folder structure
+   * 📱 Responsive Layout – Mobile-first design with adaptive navigation
 
-─────────────────────────────────────────────
+   * 🌙 Dark Mode – Toggle-friendly light and dark themes
 
-## 📂 Project Structure
+   * 🔊 Speech Feature – Text-to-speech for accessibility
+
+   * 📂 Dropdown Navigation – Interactive submenus using vanilla JS
+
+   * ⚡ Single HTML File – HTML, CSS, JS in one lightweight page
+
+   * 🎯 No Frameworks – Pure HTML, CSS, and JavaScript (no external frameworks)
+
+## 📁 Project Structure
+
 ```
-	Skillcraft/
-	├── index.html           # Contains all HTML, styles, and script
-	└── README.md            # Full documentation
+	index.html – 🧱 Main file with complete HTML, CSS, and JS
+	README.md – 📘 Project documentation
+	output.pdf – 🖨️ Printable version of the website
+	/images/ – 🖼️ Screenshots and output images of the site
 ```
-─────────────────────────────────────────────
 
-## 🌍 Live Preview
+🚀 How to Run on Linux
 
-You can publish this via GitHub Pages.
-
-Example URL: 
-``` 
-🔗 https://abdul9010150809.github.io/SCT_WD_1/
-```
-─────────────────────────────────────────────
-
-## 🚀 How to Run Locally
-
- 1️⃣ **Clone the Repository**
+1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Abdul9010150809/SCT_WD_1.git
-   cd SCT_WD_1
+   git clone https://github.com/Abdul9010150809/SCT_WD_3.git
+   cd SCT_WD_3
    ```
 
- 2️⃣ Open `index.html` in your browser  
-   (Double-click or use Live Server in VS Code)
+2. **Open `index.html` in your browser**
 
- 3️⃣ Explore the responsive layout  
-   Resize the window, interact with elements, and enjoy!
+   Just double-click the file or run with Live Server in VSCode.
+   
+3. **Run this command to launch in browser:**
+	
+	```
+	xdg-open index.html
+	```
+	
+✅ No installation needed — everything runs in your browser!
 
-─────────────────────────────────────────────
+## 📸 Output Preview
 
-### 🛠️ **Technologies Used**
+Screenshots and a full-page PDF preview are available in the images/ folder and output.pdf.
 
-🔹 HTML5 – for structure  
-🔹 CSS3 – for styling and layout  
-🔹 JavaScript – for DOM interactions and logic  
+## 🙋‍♂️ About Me
 
-─────────────────────────────────────────────
+   * 🧑‍💻 Name: Shaik.Abdul Sammed
+   
+   * 📧 Email: SHAIK.ABDULSAMMED@outlook.com
+   
+   * 🔗 GitHub: https://github.com/Abdul9010150809
 
-## 🤝 Contributions
+## 🙏 Acknowledgements
 
-Have improvements in mind?  
-✨ Feel free to fork the repo, create a feature branch, and open a pull request.  
-Let’s grow and learn together 💪
+* 🛠️ Built as part of the Skill Craft Internship
+* 💡 Designed with dedication to simplicity, interactivity, and learning
+* 💻 Special thanks to the internship mentors and contributors
 
-─────────────────────────────────────────────
-
-## 📬 Contact
-
-Have questions or suggestions? Reach out to me:
-
-📧 Email: [SHAIK.ABDULSAMMED@outlook.com](mailto:SHAIK.ABDULSAMMED@outlook.com)
-🔗 GitHub: [https://github.com/Abdul9010150809](https://github.com/Abdul9010150809)
-
-─────────────────────────────────────────────
-
-# 💻 Made with passion and precision  
-
-# ❤️ By Abdul Sammed as a part of Skill craft intern
 
