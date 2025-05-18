@@ -91,7 +91,7 @@ Have questions or suggestions? Reach out to me:
 
 ─────────────────────────────────────────────
 
-# 💻 Made with passion and precision  
+ 💻 Made with passion and precision  
 
-# ❤️ By Abdul Sammed as a part of Skill craft intern
+❤️ By Abdul Sammed as a part of Skill craft intern
 
