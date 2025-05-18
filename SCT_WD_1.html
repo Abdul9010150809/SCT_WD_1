@@ -18,7 +18,7 @@
       --nav-scroll-bg: #121a2f;
       --nav-scroll-shadow: rgba(0, 0, 0, 0.7);
       --logo-scroll-color: #aad4ff;
-        }
+    }
 
     body.dark-mode {
       --bg-color: #f0f0f0;
@@ -35,9 +35,9 @@
     }
 
     * {
-      box-sizing: border-box;
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
@@ -117,12 +117,13 @@
       font-weight: 600;
       padding: 8px 12px;
       border-radius: 5px;
-      transition: background 0.3s;
+      transition: background 0.3s, transform 0.3s ease;
     }
 
     .navbar li a:hover {
       background: var(--hover-bg);
       color: var(--hover-text);
+      transform: scale(1.05);
     }
 
     .dropdown {
@@ -255,15 +256,15 @@
         </div>
       </li>
       <li>
-        <a class="dropdown-toggle">Resources <i class="bi bi-caret-down-fill"></i></a>
+        <a href="#" class="dropdown-toggle">Resources <i class="bi bi-caret-down-fill"></i></a>
         <div class="dropdown">
-          <a>Blog</a>
-          <a>Tutorials</a>
-          <a>FAQs</a>
-          <a>Contact</a>
+          <a href="#">Blog</a>
+          <a href="#">Tutorials</a>
+          <a href="#">FAQs</a>
+          <a href="#">Contact</a>
         </div>
       </li>
-      <li><a>Contact</a></li>
+      <li><a href="#">Contact</a></li>
       <li class="lang-mode-buttons">
         <button onclick="speakText()"><i class="bi bi-volume-up"></i></button>
         <button onclick="document.body.classList.toggle('dark-mode')"><i class="bi bi-moon-fill"></i></button>
