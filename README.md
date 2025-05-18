@@ -74,4 +74,21 @@ Screenshots and a full-page PDF preview are available in the images/ folder and 
 * 💡 Designed with dedication to simplicity, interactivity, and learning
 * 💻 Special thanks to the internship mentors and contributors
 
+<<<<<<< HEAD
+=======
+─────────────────────────────────────────────
+
+## 📬 Contact
+
+Have questions or suggestions? Reach out to me:
+
+📧 Email: [SHAIK.ABDULSAMMED@outlook.com](mailto:SHAIK.ABDULSAMMED@outlook.com)
+🔗 GitHub: [https://github.com/Abdul9010150809](https://github.com/Abdul9010150809)
+
+─────────────────────────────────────────────
+
+ 💻 Made with passion and precision  
+
+❤️ By Abdul Sammed as a part of Skill craft intern
+>>>>>>> 389a09a001c4fbe6de83cde235af3094bc54a790
 
