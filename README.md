@@ -64,3 +64,23 @@ Example URL:
 🔹 CSS3 – for styling and layout  
 🔹 JavaScript – for DOM interactions and logic  
 
+─────────────────────────────────────────────
+
+🤝 Contributions
+
+Have improvements in mind?  
+✨ Feel free to fork the repo, create a feature branch, and open a pull request.  
+Let’s grow and learn together 💪
+
+─────────────────────────────────────────────
+
+📬 Contact
+
+📧 Email: SHAIK.ABDULSAMMED@outlook.com  
+🔗 GitHub: https://github.com/Abdul9010150809
+
+─────────────────────────────────────────────
+
+💻 Made with passion and precision  
+❤️ By Abdul Sammad
+
