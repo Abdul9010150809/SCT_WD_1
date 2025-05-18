@@ -4,7 +4,7 @@ Welcome to the **Responsive Web Page** project repository! This is a modern and 
 
 ─────────────────────────────────────────────
 
-##📖 About the Project
+###📖 About the Project
 
 This project demonstrates a fully responsive and interactive web page built with pure web technologies. It’s perfect for learning:
 
@@ -66,7 +66,7 @@ Example URL:
 
 ─────────────────────────────────────────────
 
-## 🛠️ **Technologies Used**
+### 🛠️ **Technologies Used**
 
 🔹 HTML5 – for structure  
 🔹 CSS3 – for styling and layout  
@@ -74,7 +74,7 @@ Example URL:
 
 ─────────────────────────────────────────────
 
-##🤝 Contributions
+###🤝 Contributions
 
 Have improvements in mind?  
 ✨ Feel free to fork the repo, create a feature branch, and open a pull request.  
@@ -82,7 +82,7 @@ Let’s grow and learn together 💪
 
 ─────────────────────────────────────────────
 
-##📬 Contact
+###📬 Contact
 
 Have questions or suggestions? Reach out to me:
 
@@ -91,7 +91,7 @@ Have questions or suggestions? Reach out to me:
 
 ─────────────────────────────────────────────
 
-##💻 Made with passion and precision  
+###💻 Made with passion and precision  
 
-##❤️ By Abdul Sammed as a part of Skill craft intern
+###❤️ By Abdul Sammed as a part of Skill craft intern
 
