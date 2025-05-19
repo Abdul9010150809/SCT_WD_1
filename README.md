@@ -29,10 +29,17 @@ It’s an ideal showcase of frontend development skills — all built into a sin
 ## 📁 Project Structure
 
 ```
-	index.html – 🧱 Main file with complete HTML, CSS, and JS
-	README.md – 📘 Project documentation
-	output.pdf – 🖨️ Printable version of the website
-	/images/ – 🖼️ Screenshots and output images of the site
+	SCT_WD_1/
+	│
+	├── index.html          # 🧱 Main HTML file (includes CSS and JS, or links to them)
+	├── README.md           # 📘 Project documentation
+	├── output.pdf          # 🖨️ Printable version of the website
+	│
+	├── images/             # 🖼️ Folder for all screenshots and output images
+	    ├── img1.jpg
+	    ├── img2.jpg
+	    └── ...
+
 ```
 
 🚀 How to Run on Linux
