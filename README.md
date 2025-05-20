@@ -1,10 +1,7 @@
-# 🌐 Skillcraft – Internship Web Project
+
+# Task 1 :- 🌐 Skillcraft – Internship Web Project
 
 Welcome to Skillcraft, a responsive and modern web-based project built entirely using HTML, CSS, and JavaScript. This project was created as part of the Skill Craft Internship and aims to deliver a practical, interactive, and visually clean web experience.
-
-## 🔗 Live Demo
-
-👉 https://abdul9010150809.github.io/SCT_WD_1/
 
 ## 📖 About the Project
 
@@ -42,7 +39,19 @@ It’s an ideal showcase of frontend development skills — all built into a sin
 
 ```
 
-🚀 How to Run on Linux
+## 🚀 Live Demo
+
+Once you push this to a public GitHub repository and enable GitHub Pages, your responsive webpage will be live at:
+
+```
+https://<your-github-username>.github.io/<repository-name>/
+```
+
+Example for your profile:
+➡️ [https://abdul9010150809.github.io/SCT_WD_2/](https://abdul9010150809.github.io/SCT_WD_2/)
+
+
+## 🚀 How to Run on Linux
 
 1. **Clone the Repository**
 
