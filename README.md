@@ -27,12 +27,14 @@ It’s an ideal showcase of frontend development skills — all built into a sin
 
 ```
 	SCT_WD_1/
+	|── .github/
+   	|	└── workflows/
+        |		└── deploy.yml     # 🚀 GitHub Actions deployment workflow
+	├── index.html          	   # 🧱 Main HTML file (includes CSS and JS, or links to them)
+	├── README.md           	   # 📘 Project documentation
+	├── output.pdf          	   # 🖨️ Printable version of the website
 	│
-	├── index.html          # 🧱 Main HTML file (includes CSS and JS, or links to them)
-	├── README.md           # 📘 Project documentation
-	├── output.pdf          # 🖨️ Printable version of the website
-	│
-	├── images/             # 🖼️ Folder for all screenshots and output images
+	├── images/             	   # 🖼️ Folder for all screenshots and output images
 	    ├── img1.jpg
 	    ├── img2.jpg
 	    └── ...
