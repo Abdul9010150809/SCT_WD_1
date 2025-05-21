@@ -50,7 +50,7 @@ https://<your-github-username>.github.io/<repository-name>/
 ```
 
 Example for your profile:
-➡️ [https://abdul9010150809.github.io/SCT_WD_2/](https://abdul9010150809.github.io/SCT_WD_2/)
+➡️ [https://abdul9010150809.github.io/SCT_WD_1/](https://abdul9010150809.github.io/SCT_WD_1/)
 
 
 ## 🚀 How to Run on Linux
@@ -58,8 +58,8 @@ Example for your profile:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Abdul9010150809/SCT_WD_3.git
-   cd SCT_WD_3
+   git clone https://github.com/Abdul9010150809/SCT_WD_1.git
+   cd SCT_WD_1
    ```
 
 2. **Open `index.html` in your browser**
